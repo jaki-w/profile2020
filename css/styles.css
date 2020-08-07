@@ -1,3 +1,8 @@
+h1 {
+  text-align: left;
+  font-size: 60px;
+}
+
 #sidebar {
   border: solid #0FB0E7;
   border-width: 5px;
@@ -7,9 +12,16 @@
   padding: 20px;
   text-align: center;
 }
+.info-link {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 35px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
 
 #info-link1 {
-  background-color: #E8D114;
+  background-color: #1af0c5;
 }
 
 #info-link2 {
@@ -17,7 +29,7 @@
 }
 
 #info-link3 {
-  background-color: #1af0c5;
+  background-color: #E8D114;
 }
 
 #info-link4 {
