@@ -54,3 +54,8 @@ a {
 #info-link4 {
   background-color: #a28089;
 }
+
+.project-link {
+  color: blue;
+  text-decoration: underline;
+}
