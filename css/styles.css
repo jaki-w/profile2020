@@ -1,3 +1,8 @@
+#main {
+  background: url("../img/main-background.jpg");
+  background-size: cover;
+}
+
 body {
   background: url("../img/gradient.jpg");
   background-repeat: no-repeat;
@@ -28,9 +33,10 @@ h1 {
 }
 
 #hello {
+  font-weight: bold;
   text-align: left;
   margin-left: 50px;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 a {
@@ -39,7 +45,7 @@ a {
 }
 
 #sidebar {
-  border: solid #ffa8B6;
+  border: solid #79CDCD;
   border-width: 5px;
   width: 100%;
   float: right;
@@ -57,7 +63,7 @@ a {
 }
 
 #info-link1 {
-  background-color: #9df9ef;
+  background-color: #79CDCD;
 }
 
 #info-link2 {
@@ -84,8 +90,9 @@ a {
 }
 
 #name {
-  color: #ffa8B6;
-  font-size: 26px;
+  color: #79CDCD;
+  font-weight: bold;
+  font-size: 40px;
 }
 
 p{
@@ -105,4 +112,11 @@ ol, ul {
 
 .title {
   font-weight: bold;
+}
+
+.bulk-text {
+  width: 70%;
+  margin-left: 180px;
+  padding: 20px;
+  border: solid #ffa8B6;
 }
