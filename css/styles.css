@@ -1,10 +1,17 @@
+body {
+  background: url("../img/gradient.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: monospace;
+}
+
 h1 {
   text-align: left;
   font-size: 60px;
 }
 
 #sidebar {
-  border: solid #0FB0E7;
+  border: solid #ffa8B6;
   border-width: 5px;
   width: 40%;
   float: right;
@@ -21,17 +28,17 @@ h1 {
 }
 
 #info-link1 {
-  background-color: #1af0c5;
+  background-color: #9df9ef;
 }
 
 #info-link2 {
-  background-color: #D635E6;
+  background-color: #ffa8B6;
 }
 
 #info-link3 {
-  background-color: #E8D114;
+  background-color: #51e2f5;
 }
 
 #info-link4 {
-  background-color: #F63EC6;
+  background-color: #a28089;
 }
