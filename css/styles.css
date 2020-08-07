@@ -1,0 +1,8 @@
+#sidebar {
+  border: solid #0FB0E7;
+  width: 40%;
+  float: right;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
