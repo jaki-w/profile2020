@@ -1,8 +1,25 @@
 #sidebar {
   border: solid #0FB0E7;
+  border-width: 5px;
   width: 40%;
   float: right;
   margin: 20px;
   padding: 20px;
   text-align: center;
+}
+
+#info-link1 {
+  background-color: #E8D114;
+}
+
+#info-link2 {
+  background-color: #D635E6;
+}
+
+#info-link3 {
+  background-color: #1af0c5;
+}
+
+#info-link4 {
+  background-color: #F63EC6;
 }
