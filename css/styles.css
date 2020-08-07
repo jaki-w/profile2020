@@ -8,6 +8,15 @@ body {
 #mainH1 {
   text-align: left;
   font-size: 80px;
+  text-decoration: none;
+  margin-left: 130px;
+  margin-bottom: 40px;
+}
+
+#me {
+  border-radius: 50%;
+  margin-left: 100px;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -15,6 +24,12 @@ h1 {
   font-size: 60px;
   text-decoration: underline;
   margin-top: 50px;
+}
+
+#hello {
+  text-align: left;
+  margin-left: 50px;
+  font-size: 18px;
 }
 
 a {
@@ -25,9 +40,10 @@ a {
 #sidebar {
   border: solid #ffa8B6;
   border-width: 5px;
-  width: 30%;
+  width: 100%;
   float: right;
   margin: 20px;
+  margin-right: 100px;
   padding: 20px;
   text-align: center;
 }
@@ -55,7 +71,37 @@ a {
   background-color: #a28089;
 }
 
+.portfolio-image {
+  padding-left: 70px;
+  padding-bottom: 20px;
+}
+
 .project-link {
   color: blue;
   text-decoration: underline;
+  padding-left: 120px;
+}
+
+#name {
+  color: #ffa8B6;
+  font-size: 26px;
+}
+
+p{
+  text-align: center;
+  font-size: 16px;
+}
+
+ol, ul {
+  font-size: 16px;
+  font-style: unset;
+  padding: 20px;
+}
+
+#favorites {
+  text-align: left;
+}
+
+.title {
+  font-weight: bold;
 }
