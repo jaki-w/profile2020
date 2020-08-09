@@ -11,7 +11,7 @@ _A webpage profile about me, Jaki Widby. The main page includes links to differe
 
 ## Setup/Installation Requirements
 
-* _To view page in browser without cloning the repository, open web browser of choice and navigate to https://jaki-w.github.io/profile2020/
+* _To view page in browser without cloning the repository, open web browser of choice and navigate to https://jaki-w.github.io/profile2020/_
 
 _or_
 
@@ -23,7 +23,7 @@ _or_
 
 * _Navigate to your machine's desktop and open profile2020 folder_
 
-* _Drag the index.html file into the browser to view page. 
+* _Drag the index.html file into the browser to view page._
 
 ## Support and contact details
 
@@ -33,6 +33,6 @@ _Email jaki.widby@gmail.com with questions or concerns_
 
 _HTML_
 _CSS_
-_BootStrap_
+_Bootstrap v3.3.7_
 
 Copyright (c) 2020 **_Jaki Widby_**
